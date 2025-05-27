@@ -1,0 +1,4 @@
+name: rtpqueue
+version: '1.0-SNAPSHOT'
+main: com.rexyiscool.rtpqueue.Rtpqueue
+api-version: '1.20'

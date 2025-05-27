@@ -1,0 +1,4 @@
+name: rtpqueue
+version: '${project.version}'
+main: com.rexyiscool.rtpqueue.Rtpqueue
+api-version: '1.20'

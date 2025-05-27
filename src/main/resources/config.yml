@@ -1,0 +1,17 @@
+rtp:
+  min:
+    x: 0
+    y: 70
+    z: 1000
+  max:
+    x: 1000
+    y: 150
+    z: 2000
+  maxattemps: 10
+  world: "world"
+  cooldown: 10  #Cooldown in seconds (300 = 5 minutes)
+  delay: 60      # Teleport delay in ticks (3 seconds)
+  maxattempts: 50
+  effects:
+    particles: true
+    sounds: true

@@ -26,6 +26,8 @@ public class RtpCommands implements CommandExecutor {
         if (args.length == 0){
             RtpManager.teleportRandomly(player);
         }
+
+
         return false;
     }
 }
